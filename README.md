@@ -19,24 +19,6 @@ Application desktop simple permettant de :
 
 ---
 
-## Structure du projet
-
-binary_editor/
-├── app/
-│ ├── main.py
-│ ├── gui.py
-│ ├── converter.py
-│ ├── validator.py
-│ └── file_manager.py
-├── tests/
-│ ├── sample.txt
-│ └── output.txt
-├── requirements.txt
-├── README.md
-└── .gitignore
-
----
-
 ## Installation
 
 ### 1. Cloner le projet
